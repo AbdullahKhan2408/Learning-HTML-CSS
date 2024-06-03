@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #e6e1e1;
+}
+html{
+    font-size: 62.5%;
+}
+h1{
+    text-align: center;
+    background-color: #f8f4f4;
+    font-size: 3rem;
+    margin: 5px;
+}
+#div{
+    text-decoration: dotted;
+    margin: 0px;
+}
+#a{
+    background-color: rgb(7, 156, 197);
+}
+#b{
+    background-color: rgb(23, 176, 218);
+}
+#c{
+    background-color: rgb(122, 215, 241);
+}
+#d{
+    background-color: rgb(182, 231, 244);
+}
+#e{
+    background-color: rgb(183, 221, 232);
+}
+#f{
+    background-color: rgb(222, 238, 242);
+}
+#g{
+    background-color: rgb(237, 244, 245);
+}
+#h{
+    background-color: rgb(46, 96, 8);
+}
+#i{
+    background-color: rgb(239, 192, 192)
+}
+#j{
+    background-color: rgb(247, 128, 128);
+}
+#k{
+    background-color: rgb(245, 94, 94);
+}
+#l{
+    background-color: rgb(237, 36, 36);
+}
+#m{
+    background-color: rgb(247, 60, 60);
+}
+#n{
+    background-color: rgb(239, 26, 26);
+}
+#o{
+    background-color: rgb(241, 0, 0);
+}
